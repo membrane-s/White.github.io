@@ -1,21 +1,14 @@
-# 欢迎来到我的笔记博客
+# 我的个人笔记
 
-这里是我用来记录和分享个人笔记的地方。
+这是我的个人学习笔记和知识管理空间。
 
-## 最新笔记
+## 快速导航
 
-- [笔记1](/category1/note1.md)
-- [笔记2](/category1/note2.md)
+- [学习计划](/study-plan.md)
+- [读书笔记](/reading-notes.md)
+- [知识库](/knowledge-base.md)
 
-## 关于我
+## 最近更新
 
-简短的自我介绍...
-
-## 最新笔记
-
-- [笔记1](/category1/note1.md)
-- [笔记2](/category1/note2.md)
-
-## 关于我
-
-简短的自我介绍...
+- [最近的学习目标](/study-plan.md#最近目标)
+- [最新读书笔记](/reading-notes.md#最新笔记)
