@@ -1,4 +1,4 @@
 * [首页](/)
-* [学习计划](/study-plan.md)
-* [读书笔记](/reading-notes.md)
-* [知识库](/knowledge-base.md)
+* [学习计划](/study-plan/)
+* [读书笔记](/reading-notes/)
+* [知识库](/knowledge-base/)

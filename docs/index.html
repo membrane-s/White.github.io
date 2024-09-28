@@ -13,6 +13,12 @@
       name: '我的个人笔记',
       loadNavbar: true,
       loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/study-plan/.*/_sidebar.md': '/study-plan/_sidebar.md',
+        '/reading-notes/.*/_sidebar.md': '/reading-notes/_sidebar.md',
+        '/knowledge-base/.*/_sidebar.md': '/knowledge-base/_sidebar.md'
+      },
       subMaxLevel: 2,
       search: {
         placeholder: '搜索',
