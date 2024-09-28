@@ -1,0 +1,7 @@
+* [首页](/)
+* [笔记分类一](/category1/)
+  * [笔记1](/category1/note1.md)
+  * [笔记2](/category1/note2.md)
+* [笔记分类二](/category2/)
+  * [笔记3](/category2/note3.md)
+  * [笔记4](/category2/note4.md)
